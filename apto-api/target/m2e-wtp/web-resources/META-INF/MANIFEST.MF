@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: apto-api
+Implementation-Version: 1.0.0
+Built-By: H199653
+Implementation-Vendor-Id: com.lgc.ctps.apto
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/apto-api
+Created-By: Maven Integration for Eclipse
+
